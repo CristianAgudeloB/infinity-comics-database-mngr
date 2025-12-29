@@ -16,7 +16,8 @@ export default defineConfig({
     port: 5174,
     strictPort: true,
     allowedHosts: [
-      'https://library-updater.onrender.com/'
+      'https://library-updater.onrender.com/',
+      'library-updater.onrender.com'
     ]
   },
   
